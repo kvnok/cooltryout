@@ -1,0 +1,7 @@
+/mnt/c/cooltesting/cooltryout/MLX42/build/CMakeFiles/mlx42.dir
+/mnt/c/cooltesting/cooltryout/MLX42/build/CMakeFiles/edit_cache.dir
+/mnt/c/cooltesting/cooltryout/MLX42/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/cooltesting/cooltryout/MLX42/build/CMakeFiles/list_install_components.dir
+/mnt/c/cooltesting/cooltryout/MLX42/build/CMakeFiles/install.dir
+/mnt/c/cooltesting/cooltryout/MLX42/build/CMakeFiles/install/local.dir
+/mnt/c/cooltesting/cooltryout/MLX42/build/CMakeFiles/install/strip.dir
